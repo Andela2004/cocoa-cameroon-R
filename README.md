@@ -1,5 +1,5 @@
 # Statistical analysis of cocoa production in Cameroon (2000-2024)
-
+Full report: [Cameroon_Cocoa_Production_R.pdf](Cameroon_Cocoa_Production_R.pdf)
 Exploratory, national-level analysis of annual cocoa production, harvested area,
 mean temperature and precipitation, using first-differenced variables and GLS
 models with AR(1)/AR(2) errors (R, package `nlme`).
